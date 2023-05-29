@@ -1,5 +1,9 @@
 # python-sort
 
+
+Pada Hari ini sedang membahas tentang Ascending dan Descending dan juga membahas Bubble Sort serta Selection Sort
+
+
 **Ascending** adalah Pengurutan secara menaik (ascending) mengacu pada proses pengurutan elemen-elemen dalam urutan dari nilai terkecil ke terbesar. Dalam hal ini, elemen pertama dalam urutan akan memiliki nilai terkecil, dan elemen terakhir akan memiliki nilai terbesar. Dalam Python, Anda dapat menggunakan metode sort() untuk mengurutkan secara menaik.
 
 **Descending** adalah Pengurutan secara menurun (descending) mengacu pada proses pengurutan elemen-elemen dalam urutan dari nilai terbesar ke terkecil. Dalam hal ini, elemen pertama dalam urutan akan memiliki nilai terbesar, dan elemen terakhir akan memiliki nilai terkecil. Dalam Python, Anda dapat menggunakan metode sort() dengan argumen reverse=True atau menggunakan fungsi sorted() dengan argumen reverse=True untuk mengurutkan secara menurun.
